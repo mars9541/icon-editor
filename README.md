@@ -1,7 +1,5 @@
-#Find it <a href="https://aminkodaganur.github.io/iconplus/">Here</a>
-
 #Demo
-<img src="https://raw.githubusercontent.com/aminkodaganur/iconplus/gh-pages/promotion.jpg"  />
+<img src="https://https://github.com/marsofjkic/icon-editor/promotion.jpg"  />
 
 #Intro 
 Produce icons with extra effect like long shadow, flat shadow, box effect, circle effect and rounded rectangle effect. It support Dynamic text, Font-awesome icons and also google materialized icon. You can make any Font-awesome icon as line icon and add attractive effect to it dynamically. As a output you will get CSS3 code and also you can export it as SVG file...
@@ -32,7 +30,7 @@ Produce icons with extra effect like long shadow, flat shadow, box effect, circl
 
 #How to use it 
 -	Step1 :
-     Go to <a href="https://aminkodaganur.github.io/iconplus/">site</a> and build icon with effect however you want  
+     Download this repository and install, build icon with effect however you want  
 
 -	Step2: 
      Find “Get Code” or “Download as SVG” button on menu bar and click on any one option
