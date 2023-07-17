@@ -1,5 +1,5 @@
 #Demo
-<img src="https://github.com/marsofjkic/icon-editor/promotion.jpg"  />
+<img src="promotion.jpg"  />
 
 #Intro 
 Produce icons with extra effect like long shadow, flat shadow, box effect, circle effect and rounded rectangle effect. It support Dynamic text, Font-awesome icons and also google materialized icon. You can make any Font-awesome icon as line icon and add attractive effect to it dynamically. As a output you will get CSS3 code and also you can export it as SVG file...
